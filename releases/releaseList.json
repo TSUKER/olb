@@ -1,0 +1,67 @@
+[
+  {
+    "Id": "0",
+    "Name": "Source Code",
+    "DevelopmentStatus": "None",
+    "Description": "Source code included below.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2008-03-11T09:52:10.43-07:00",
+    "Files": [
+      {
+        "Id": "db1bb8ae-cd53-4ce7-969a-100203e0fa5d",
+        "FileName": "Online Banking Reports - Source Code.zip",
+        "Url": "./0/db1bb8ae-cd53-4ce7-969a-100203e0fa5d",
+        "Type": "Source Code",
+        "UploadDate": "2008-03-11T09:52:10.557-07:00"
+      }
+    ]
+  },
+  {
+    "Id": "1",
+    "Name": "Installation Files",
+    "DevelopmentStatus": "Planning",
+    "Description": "Below are the installation files along with the the Installer help file.",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2008-03-03T16:59:28.65-08:00",
+    "Files": [
+      {
+        "Id": "c07908c8-de96-492d-8668-98d1ad5705cc",
+        "FileName": "Online Banking Reports.msi",
+        "Url": "./1/c07908c8-de96-492d-8668-98d1ad5705cc",
+        "Type": "Application",
+        "UploadDate": "2008-03-02T20:02:38.19-08:00"
+      },
+      {
+        "Id": "57b37620-0a09-4048-9c66-4513b1d364dd",
+        "FileName": "Online Banking Reports Installer Help.docx",
+        "Url": "./1/57b37620-0a09-4048-9c66-4513b1d364dd",
+        "Type": "Documentation",
+        "UploadDate": "2008-03-02T20:02:38.517-08:00"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "Install Files",
+    "DevelopmentStatus": "None",
+    "Description": "\nBefore You Install \nWe recommend that you use a separate, non-production machine for installing the reference pack or create a backup image of your computer, before installing any of the software referenced here. Alternatively, use a Virtual PC. This application has been tested on Windows 2003 Server SP2.\n\nFollowing are the software requirements for the target machine:\n1.\tWindows Server 2003 Enterprise Edition\n2.\tInternet Information Services 6.0\n3.\tMicrosoft .NET Framework 3.0\n4.\tMicrosoft Office SharePoint Server 2007\n5.\tMicrosoft Office 2007 Client Install (Word 2007, Excel 2007, Outlook 2007)\n6.\tOpenXMLSDK\nHow to Install \nIn order to install the package follow these steps:\n1)\tDouble-click the file OLBSetup.msi.\n2)\tEnter the required details as to Site URL in the screens that follow\na.\tSite URL\nb.\tUser Id\nc.\tEmail address\n3)\tWait for the console programs to finish execution\n4)\tAccess the URL http://<ComputerName>:<portno>\nManual Configurations\nNo manual configuration\n",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2008-04-25T12:07:36.44-07:00",
+    "Files": [
+      {
+        "Id": "cf9ae655-32fe-4ebc-89c8-918ac7610681",
+        "FileName": "OLB Setup.zip",
+        "Url": "./2/cf9ae655-32fe-4ebc-89c8-918ac7610681",
+        "Type": "Application",
+        "UploadDate": "2008-04-25T12:07:36.457-07:00"
+      },
+      {
+        "Id": "de7e050c-f2d3-486a-9db6-4ffaec5776ec",
+        "FileName": "Online Banking Reports Installer Help.docx",
+        "Url": "./2/de7e050c-f2d3-486a-9db6-4ffaec5776ec",
+        "Type": "Documentation",
+        "UploadDate": "2008-03-10T11:39:28.353-07:00"
+      }
+    ]
+  }
+]
